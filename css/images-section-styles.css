@@ -1,0 +1,19 @@
+.portfolio-section {
+  padding: 150px 55px 130px 55px;
+}
+
+.portfolio-images {
+  display: flex;
+  gap: 30px;
+  margin-top: 44px;
+}
+
+sup {
+  color: #ff6c00;
+
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

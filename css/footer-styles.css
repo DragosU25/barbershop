@@ -1,0 +1,31 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 56px 55px 56px 58px;
+  background: #f7f7f7;
+}
+
+.footer-social-media-link {
+  display: flex;
+}
+
+.footer-links-container {
+  display: flex;
+  gap: 40px;
+}
+
+.footer-list {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-text {
+  color: #9da4bd;
+
+  font-family: Open Sans;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 2.2px;
+}
